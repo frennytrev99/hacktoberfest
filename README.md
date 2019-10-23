@@ -10,5 +10,6 @@ To join to the list of contributors you just need to do this simple steps:
 
 * Commit your changes
 * Create a new PR
+ Happy pulling (out).
 
 Happy hacking!
